@@ -6,7 +6,7 @@ Mobility Science Student an der ZHAW School of Engineering. Ich interessiert mic
 - Aktuell arbeite ich an meiner Projektarbeit zum Thema Decision Support in der Logistik Disposition im Veloblitz.
 
 ## Lernen
-- **Introduction to Python** (JetBrains) — [Zertifikat](<Link>)
+- **Introduction to Python** (JetBrains)
 
 ## Kontakt
 - E-Mail: c.real@tuta.io
